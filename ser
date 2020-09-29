@@ -1,0 +1,71 @@
+import React from "react";
+import A1 from "./left-arrow.png";
+export const Fagg = () => {
+	return(
+	<body>
+	<div className="main">
+		<div className="header5" >
+		 	  	 	<div className="imgtxt">
+		 	  	 		<div className="zatemn">
+		<div className="header2">
+			<a href="сбн1.html">
+			<img  className="arrowimg " src={A1}/>
+			<div className="heaer3">
+
+				<p>вернуться</p>
+				</a>
+			</div>
+			<div className="header4">
+			<p align="center">400руб/час</p>
+		</div>
+		<div className="header6">
+			<p align="center">400руб/час</p>
+		</div>
+		<div className="header7">
+			<p align="center">400руб/час</p>
+		</div>
+		</div>
+         <div className="block1">
+		  <div className="header8">
+		 	<p align="center">Ограниченный бюджет</p>
+		  </div>
+		 <div className="header9">
+		 	<h3>Если вы планируете потратить до      <h2> 7000 рублей<h2> </h3>
+		 	
+		 </div>
+           <div className="header10">
+			<a className="aspec" align="center" href="str.html">Записаться</a>
+			</div>
+		 </div>
+		  <div className="block2">
+		  <div className="header11">
+		 	<p align="center">Средний бюджет</p>
+		  </div>
+		 <div className="header12">
+		 	<h3>Если вы планируете потратить до      <h2> 12000 рублей<h2> </h3>
+		 	
+		 </div>
+           <div className="header13">
+			<a className="aspec" align="center" href="/vstr.html?">Записаться</a>
+			</div>
+		 </div>
+		 <div className="block3">
+		  <div className="header14">
+		 	<p align="center">Неограниченный  бюджет</p>
+		  </div>
+		 <div className="header15">
+		 	<h3>Если вы планируете потратить от      <h2> 13000 рублей<h2> </h3>
+		 	
+		 </div>
+           <div className="header16">
+			<a align="center" className="aspec" href="/vstr.html?">Записаться</a>
+			</div>
+		 </div>
+		  
+
+
+
+
+</head>
+<body>)
+}
