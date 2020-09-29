@@ -1,0 +1,33 @@
+.header{
+	width: 80%;
+	height: 80px;
+	background-image: url();
+	background-color: red;
+	margin:0 auto;
+}
+body{
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+}
+.header_text{
+	color:white;
+	font-size: 30px;
+	font-weight: 400;
+	text-align: center;
+	padding-top: 20px;
+}
+.main_content_block{
+	width: 80%;
+	height: 660px;
+	margin:0 auto;
+}
+.content_block{
+	width: 33.3333333%;
+	height: 100%;
+	float: left;
+	background-color: green;
+}
+.content-text_properties{
+	font-size: 15px;
+	text-align: center;
+}
